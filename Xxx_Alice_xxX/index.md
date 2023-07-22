@@ -1,5 +1,5 @@
 ---
-editor: @reactor-coding
+editor: reactor-coding
 discription: null
 ---
 ## Xxx_Alice_xxX(xxx_Alice_xxx)

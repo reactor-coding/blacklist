@@ -1,5 +1,5 @@
 ---
-editor: @reactor-coding
+editor: reactor-coding
 discription: このデータは、BlogBooks Dev.に置かれていたもののコピーをもとにしたものです。
 ---
 ## JJCCPRPSHC
