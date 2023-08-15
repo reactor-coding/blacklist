@@ -58,4 +58,4 @@ VPN使って、BlogBooks LibraryのコメントにGoogleアカウントフィッ
 `reactor`, `reactor-coding`: BlogBooks Library 第4代目(現)所有者: **2023/03~** Reactor (正式名: reactor-coding)   
 `JJCCPRPSHC`, `Ptbnth`, `GasMag`, `ガスマグ`: JJCCPRPSHC(`Discordサーバー荒らし`, `詐欺師`, `犯罪者(法律にいくつか引っかかっている)`, (+嘘つくの常習犯))   
 `りく`: BlogBooks Dev.のメンバーの一人。**りく(陸) .o.** ユーザーの特定を得意とする。   
-`ねここね`: BlogBooks Dev.の所有者。下の名前(本名): `なな`
+`ねここね`: BlogBooks Dev.の所有者
